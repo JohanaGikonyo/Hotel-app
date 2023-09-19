@@ -1,7 +1,4 @@
-#root{
-    height: 1000px;
-    margin-bottom: 0px;
-}
+
 .container{
     display: flex;
     flex-direction: row;
@@ -53,6 +50,6 @@ margin: 10px;
             
         
             }
-            row{
+            .row{
                 text-align: center;
             }
